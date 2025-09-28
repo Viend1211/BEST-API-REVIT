@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RSNModelsMini</Name>
+    <Assembly>"путь к файлу"\ModelsMini.dll</Assembly>
+    <AddInId>32e8a1e2-f1e2-4f15-8c51-8e2ff3c8bbef</AddInId>
+    <FullClassName>RSNModelsMini.ListRsModelsCommand</FullClassName>
+    <VendorId>COMP</VendorId>
+    <VendorDescription>Ваша компания или имя</VendorDescription>
+  </AddIn>
+</RevitAddIns>
